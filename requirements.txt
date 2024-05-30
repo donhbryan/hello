@@ -1,0 +1,5 @@
+PyQt5
+Pillow
+PyQt5-Qt5
+PyQt5-sip
+Pandas
